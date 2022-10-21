@@ -11,6 +11,13 @@ https://app.clickup.com/31565219/v/l/y39d3-125
 
 WORD INFORME
 https://docs.google.com/spreadsheets/d/13rA5xORZmuIhYBdTSHDS19knJouJGrWkVjP_4FvFfIg/edit#gid=2077542631
+https://docs.google.com/document/d/1sln7KXvfLTmOCDe4aghlNgROvzoP_yjR/edit?pli=1
+
+
+NETLIFY
+-
+-
+--------------------------------------------------------------------------------------------------------------------
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
 
