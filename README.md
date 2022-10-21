@@ -1,4 +1,9 @@
-# Sakai
+# PROYECTO
+-CORNEJO RODRIGUEZ LUIS
+-SAL Y ROSAS CRISTOPHER
+-DE LA CRUZ JESUS
+-SEGUNDO SEBASTIAN
+-CENTURION ADRIAN
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
 
