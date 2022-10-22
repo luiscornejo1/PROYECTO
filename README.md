@@ -15,8 +15,8 @@ https://docs.google.com/document/d/1sln7KXvfLTmOCDe4aghlNgROvzoP_yjR/edit?pli=1
 
 
 NETLIFY
--
--
+- prototipos del proyecto (9) : https://proyecgescontroltime.netlify.app
+- prototipo reconocimiento facial(1) : https://recofa.netlify.app 
 --------------------------------------------------------------------------------------------------------------------
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
